@@ -1,0 +1,4 @@
+com\nagarro\SpringBootCRUD\controller\EmployeeController.class
+com\nagarro\SpringBootCRUD\model\Employee.class
+com\nagarro\SpringBootCRUD\SpringBootCrudApplication.class
+com\nagarro\SpringBootCRUD\dao\EmployeeDao.class
